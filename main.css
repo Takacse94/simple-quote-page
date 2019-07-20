@@ -14,8 +14,15 @@ body {
   color: #333;
 }
 
+nav {
+  padding-top: 2rem;
+  margin: 0 auto;
+  text-align: center;
+  color: #333;
+}
+
 .wrapper {
-  padding-top: 8.5rem;
+  padding-top: 5.5rem;
   width: 90%;
   margin: 0 auto;
   text-align: center;
@@ -33,7 +40,7 @@ body {
   font-style: italic;
 }
 
-footer, a {
+footer, footer.a {
   font-family: 'Crimson Text', serif;
   font-size: 1.5rem;
   color: #333;
